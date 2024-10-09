@@ -9,6 +9,7 @@ int main() {
   int populacao;
 
   // Área para entrada de dados
+  printf("Entre com a população: \n");
   scanf("%d", &populacao);
 
   // Área para exibição dos dados da cidade
