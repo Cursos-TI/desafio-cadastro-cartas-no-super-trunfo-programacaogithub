@@ -6,10 +6,12 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
+  int populacao;
 
   // Área para entrada de dados
+  scanf("%d", &populacao);
 
   // Área para exibição dos dados da cidade
-
+  printf("Exibiçao dados da cidade");
 return 0;
 }
