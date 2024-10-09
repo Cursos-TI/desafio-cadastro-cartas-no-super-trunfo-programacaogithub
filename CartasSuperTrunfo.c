@@ -13,6 +13,6 @@ int main() {
   scanf("%d", &populacao);
 
   // Área para exibição dos dados da cidade
-  printf("Exibiçao dados da cidade");
+  printf("Exibiçao dados da cidade\n");
 return 0;
 }
